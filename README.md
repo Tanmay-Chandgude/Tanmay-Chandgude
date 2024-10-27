@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🔭 I'm currently working on Backend development
-- 🌱 I'm currently trying my hands on Node.js
+- 🌱 I'm currently trying my hands on React.
 - 🤔 Any help regarding tech is most appreciated.
 - 💬 Ask me about tech , Geopolitics , International Relations.
 
