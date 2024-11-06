@@ -19,6 +19,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanmay-Chandgude&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## 🏆 Hacktobefest 2024
 [![An image of @tanmaychandgude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaychandgude)](https://holopin.io/@tanmaychandgude)
 
 ### 🔝 Top Contributed Repo
