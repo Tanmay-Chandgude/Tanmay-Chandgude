@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- 🔭 I'm currently working on Backend development
-- 🌱 I'm currently trying my hands on React.
+- 🔭 I'm currently working on AdulterX ( Ai based food adulteration analysis)
+- 🌱 I'm currently trying my hands on Backend.
 - 🤔 Any help regarding tech is most appreciated.
 - 💬 Ask me about tech , Geopolitics , International Relations.
 
