@@ -69,7 +69,3 @@
 ## 🔝 **Top Contributed Repos**:
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Tanmay-Chandgude&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-## 🚀 **Website Visits**:
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Tanmay-Chandgude&icon=0&color=13)](https://visitcount.itsvg.in)
