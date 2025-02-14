@@ -56,6 +56,9 @@
 
 <div style="display: flex; gap: 1rem;">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Chandgude&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />  
+</div>
+
+<div style="display: flex; gap: 1rem;">
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Tanmay-Chandgude&theme=dark&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
