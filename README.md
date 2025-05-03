@@ -11,7 +11,6 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/tanmay-chandgude-7a8712249"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@Tanmays_TechJourney"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
 ---
